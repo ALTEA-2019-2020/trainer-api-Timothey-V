@@ -21,4 +21,4 @@ Les informations du dresseur sont :
 - La liste de ses pokémons
 
 Cette API a été développé en local car le réseau de développement était trop filtré et ne permettait pas un bon usage de l'API
-Mais il peut être facilement déployable sur le Heroku maintenant terminé.
+L'API est déployé sur Heroku a cette adresse : https://trainer-api-tvanmarcke.herokuapp.com/
